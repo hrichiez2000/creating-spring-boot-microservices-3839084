@@ -2,6 +2,7 @@ package com.example.tourservice;
 
 import com.example.tourservice.utilities.TourRepository;
 
+@Service
 public class TravelAgentService {
     private  TourRepository tourRepository;
 
